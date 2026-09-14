@@ -279,6 +279,8 @@ Most "awesome" lists are link dumps. This one is **annotated and verified**: eve
 - **[Prediction: A Frontier Open Source LLM Will Be Released On 3rd December 2026](https://blog.doubleword.ai/frontier-os-llm)** — Jamie Dborin (Doubleword) — <https://blog.doubleword.ai/frontier-os-llm> · *blog* — Extrapolates the Artificial Analysis Intelligence Index across 18 constituent benchmarks to forecast the open-vs-closed capability gap; a naive fit of the headline index points to convergence by 3 Dec 2026, but the average per-benchmark lag holds steady at ~5 months — a worked cautionary case in reading trends off an aggregate leaderboard index rather than its components. 🆕
 
 **Must-reads:** Press · Kapoor et al. · OpenAI (SWE-bench Verified) · Leaderboard Illusion
+- **[Benchmark Radar](https://github.com/ktwu01/benchmark-radar)** — Wu et al. — <https://arxiv.org/abs/2609.11115> · *paper/tool* — A living benchmark catalog with daily discovery and source-linked score histories; helps agent-evaluation researchers inspect prior art and the evidence behind saturation and score comparisons. 🆕
+
 
 ## 7 · Evals & RL environments (verifiers, reward design, difficulty calibration, lifecycle)
 
